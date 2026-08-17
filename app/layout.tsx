@@ -23,8 +23,8 @@ const fontPixel = Silkscreen({
 });
 
 export const metadata: Metadata = {
-  title: "Whimsical Portfolio — Designer & Developer",
-  description: "Tactile, colorful scrapbook portfolio built with Next.js",
+  title: "jeanna. | design&dev",
+  description: "jsv",
 };
 
 export default function RootLayout({
